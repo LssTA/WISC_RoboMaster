@@ -1,3 +1,7 @@
+##MendotaSteamboat
+ - 2023-24 season standard 1v1 code
+
+
 ## 概述
 
 - en doc   [readme](doc/en/readme.md)
