@@ -1,6 +1,8 @@
 ## Intro
 
  - MendotaSteamboat 2023-24 season standard 1v1 code
+ - follows standard type A open sourced code
+ - changes in application tasks
 
 
 ## 概述
